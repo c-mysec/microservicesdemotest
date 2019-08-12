@@ -1,0 +1,14 @@
+C:\Users\cyharad\DEV\vscode\microservicesDemoWebApiC\microservicesDemoWebApiC\bin\Debug\netcoreapp2.2\microservicesDemoWebApiC.deps.json
+C:\Users\cyharad\DEV\vscode\microservicesDemoWebApiC\microservicesDemoWebApiC\bin\Debug\netcoreapp2.2\microservicesDemoWebApiC.runtimeconfig.json
+C:\Users\cyharad\DEV\vscode\microservicesDemoWebApiC\microservicesDemoWebApiC\bin\Debug\netcoreapp2.2\microservicesDemoWebApiC.runtimeconfig.dev.json
+c:\Users\cyharad\DEV\vscode\microservicesDemoWebApiC\microservicesDemoWebApiC\bin\Debug\netcoreapp2.2\microservicesDemoWebApiC.dll
+c:\Users\cyharad\DEV\vscode\microservicesDemoWebApiC\microservicesDemoWebApiC\bin\Debug\netcoreapp2.2\microservicesDemoWebApiC.pdb
+c:\Users\cyharad\DEV\vscode\microservicesDemoWebApiC\microservicesDemoWebApiC\obj\Debug\netcoreapp2.2\microservicesDemoWebApiC.csprojAssemblyReference.cache
+c:\Users\cyharad\DEV\vscode\microservicesDemoWebApiC\microservicesDemoWebApiC\obj\Debug\netcoreapp2.2\microservicesDemoWebApiC.csproj.CoreCompileInputs.cache
+c:\Users\cyharad\DEV\vscode\microservicesDemoWebApiC\microservicesDemoWebApiC\obj\Debug\netcoreapp2.2\microservicesDemoWebApiC.RazorAssemblyInfo.cache
+c:\Users\cyharad\DEV\vscode\microservicesDemoWebApiC\microservicesDemoWebApiC\obj\Debug\netcoreapp2.2\microservicesDemoWebApiC.RazorAssemblyInfo.cs
+c:\Users\cyharad\DEV\vscode\microservicesDemoWebApiC\microservicesDemoWebApiC\obj\Debug\netcoreapp2.2\microservicesDemoWebApiC.AssemblyInfoInputs.cache
+c:\Users\cyharad\DEV\vscode\microservicesDemoWebApiC\microservicesDemoWebApiC\obj\Debug\netcoreapp2.2\microservicesDemoWebApiC.AssemblyInfo.cs
+c:\Users\cyharad\DEV\vscode\microservicesDemoWebApiC\microservicesDemoWebApiC\obj\Debug\netcoreapp2.2\microservicesDemoWebApiC.RazorTargetAssemblyInfo.cache
+c:\Users\cyharad\DEV\vscode\microservicesDemoWebApiC\microservicesDemoWebApiC\obj\Debug\netcoreapp2.2\microservicesDemoWebApiC.dll
+c:\Users\cyharad\DEV\vscode\microservicesDemoWebApiC\microservicesDemoWebApiC\obj\Debug\netcoreapp2.2\microservicesDemoWebApiC.pdb
