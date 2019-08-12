@@ -29,7 +29,7 @@ stages:
       displayName: Build an image
       inputs:
         command: buildAndPush
-        repository: clovisyutakaharada/microservicesdemo-pipelines
+        repository: clovisyutakaharada/microservicesdemotest
         dockerfile: '**/Dockerfile'
         tags: |
           $(tag)
